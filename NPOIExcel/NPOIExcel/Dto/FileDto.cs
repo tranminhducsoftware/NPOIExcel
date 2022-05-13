@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Application.Dto
+namespace NPOIExcel.Dto
 {
     public class FileDto
     {

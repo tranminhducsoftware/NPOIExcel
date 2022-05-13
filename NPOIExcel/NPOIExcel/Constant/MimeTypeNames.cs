@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Core
+namespace NPOIExcel.Constant
 {
     public static class MimeTypeNames
     {

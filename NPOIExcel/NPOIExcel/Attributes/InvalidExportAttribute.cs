@@ -1,12 +1,8 @@
-﻿using System.Collections.Generic;
-
-namespace Application.Attribute
+﻿namespace NPOIExcel.Attributes
 {
-    public class SampleExportAttribute : System.Attribute
+    public class InvalidExportAttribute : System.Attribute
     {
         #region Properties
-
-        public Dictionary<string, List<object>> Dependency { get; set; }
 
         public int RowIndex { get; }
 
@@ -28,10 +24,10 @@ namespace Application.Attribute
 
         #region Constructor
 
-        public SampleExportAttribute(int rowIndex = 0, int colIndex = 0, int colSpan = 1, int rowSpan = 1,
-            string name = "", int colWidth = 50,
-            bool required = false, Dictionary<string, List<object>> dependency = null)
+        public InvalidExportAttribute(string colName, int rowIndex = 0, int colIndex = 0, int colSpan = 1, int rowSpan = 1, string name = "", int colWidth = 50,
+            bool required = false)
         {
+            ColName = colName;
             RowIndex = rowIndex;
             ColIndex = colIndex;
             ColSpan = colSpan;
@@ -39,11 +35,12 @@ namespace Application.Attribute
             Name = name;
             ColWidth = colWidth;
             Required = required;
-            Dependency = dependency;
         }
 
-        public SampleExportAttribute()
+        public InvalidExportAttribute(string name, string colName)
         {
+            Name = name;
+            ColName = colName;
             RowIndex = 0;
             ColSpan = 1;
             ColWidth = 50;

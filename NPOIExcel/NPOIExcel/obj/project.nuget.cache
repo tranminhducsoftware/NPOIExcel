@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xtgryk74bYPGk/yXtRwlk4aUDHxc1gBW3a96KWSR78wY0Lx0QDqf3Qb6nVFe3+yFRSYE5A4iYIE60au7zDo9ug==",
+  "dgSpecHash": "BwLllCHkaHwMLjIv+HygH42o6jicTntjwT25JqqGSRWGERtBc5gbn5XpGQsxa5AAox4oy30YzEm9spAdY//0Xg==",
   "success": true,
   "projectFilePath": "C:\\D\\Me\\NPOIExcel\\NPOIExcel\\NPOIExcel\\NPOIExcel.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",

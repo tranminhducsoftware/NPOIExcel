@@ -4,7 +4,7 @@ using System.IO;
 using NPOI.SS.UserModel;
 using NPOI.XSSF.UserModel;
 
-namespace NPOIExcel.Import
+namespace NPOIExcel
 {
     public abstract class NpoiExcelImporterBase<TEntity>
     {
