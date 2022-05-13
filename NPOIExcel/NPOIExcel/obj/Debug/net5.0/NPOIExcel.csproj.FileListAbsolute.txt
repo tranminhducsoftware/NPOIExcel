@@ -1,0 +1,17 @@
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.csproj.AssemblyReference.cache
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.AssemblyInfoInputs.cache
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.AssemblyInfo.cs
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.csproj.CoreCompileInputs.cache
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\NPOIExcel.deps.json
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\NPOIExcel.dll
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\ref\NPOIExcel.dll
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\NPOIExcel.pdb
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\Application.dll
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\Core.dll
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\Application.pdb
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\bin\Debug\net5.0\Core.pdb
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.csproj.CopyComplete
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.dll
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\ref\NPOIExcel.dll
+C:\D\Me\NPOIExcel\NPOIExcel\NPOIExcel\obj\Debug\net5.0\NPOIExcel.pdb

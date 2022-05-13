@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOIExcel", "NPOIExcel\NPOIExcel.csproj", "{C8183272-BC8E-4660-AA5D-11D9A6EF8CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{ECCDA347-D0B6-48BC-9E6B-29E3F2E79ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{F28CFFF7-B652-4215-931E-FB47EBFD50AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8183272-BC8E-4660-AA5D-11D9A6EF8CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8183272-BC8E-4660-AA5D-11D9A6EF8CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8183272-BC8E-4660-AA5D-11D9A6EF8CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8183272-BC8E-4660-AA5D-11D9A6EF8CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCDA347-D0B6-48BC-9E6B-29E3F2E79ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCDA347-D0B6-48BC-9E6B-29E3F2E79ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCDA347-D0B6-48BC-9E6B-29E3F2E79ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCDA347-D0B6-48BC-9E6B-29E3F2E79ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28CFFF7-B652-4215-931E-FB47EBFD50AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28CFFF7-B652-4215-931E-FB47EBFD50AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28CFFF7-B652-4215-931E-FB47EBFD50AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28CFFF7-B652-4215-931E-FB47EBFD50AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
